@@ -109,8 +109,6 @@ Our team struggled to identify a project that had security-related issues that w
 
 Going forward, we plan to identify the project needs, evaluate the code (technical), and then divide the project tasks among the team members.
 
-We do have one team member who has been unresponsive since the first meeting in Week 2. The other 5 members of the team have been significant contributors and collaborators on this project.
-
 ## Project Resources
 
 ### Documentation Sources:
