@@ -36,6 +36,7 @@ If Supervisor is hacked the entire HA will become compromised. An attacker can t
 * If the user home system has been compromised, a thief or attacker may be able to gain physical access to the business location.
 * If the user application is compromised, the attacker will have access to confidential data such as bank accounts, vendor and customer information, and other proprietary information maintained on connected devices.
 * As a small business, the owner might store personal and professional information on the same devices, therefore compromising his or her personal information as well.
+* Although theft is a major threat, damage to or lose of data can also be detrimental to the organization. Malware and/or ransomware can be transferred to any of the many connected devices. 
 
 
 ### Security Features
@@ -43,6 +44,7 @@ If Supervisor is hacked the entire HA will become compromised. An attacker can t
 * Use two-factor authentication during irregular software upgrades or during the installation of new add-ons.
 * Use VLAN to separate devices from providing information to the wrong servers.
 * Enable IP ban: Bans IP address which tries to login with wrong password multiple times.
+* Data backups should be maintained so that business users are not so drastically impacted if data is lost or damaged.
 
 
 ## Team Motivation
@@ -106,6 +108,8 @@ Currently, a username and password are required to set up a profile for HA use. 
 Our team struggled to identify a project that had security-related issues that we could identify. We discussed searching through projects for a specific topic (originally we looked into exam proctoring software) but unfortunately, that was a time-consuming and ineffective process. Ultimately, we found that Codetriage.com was useful in finding a project that was interesting to our team and was also in need of security measures. We also found that it was difficult to identify if the security measures that currently exist in the software were originally built into the design or if they were added on at another time. Ultimately, the timing of the creation of the security measures is difficult for us to determine. We have realized that a code review with the technical members of the team is necessary after identifying the project tasks and prior to developing solutions.
 
 Going forward, we plan to identify the project needs, evaluate the code (technical), and then divide the project tasks among the team members.
+
+We do have one team member who has been unresponsive since the first meeting in Week 2. The other 5 members of the team have been significant contributors and collaborators on this project.
 
 ## Project Resources
 
