@@ -2,7 +2,7 @@
 *University of Nebraska Omaha, Fall 2021*
 
 ## Project Proposal 
-The proposed project is an open-source software called Home-Assistant which is a home automation software used to control connected smart devices like lights, locks, security cameras, fire alarms sprinklers, and other types of machinery. It includes an application called Supervisor which is used to install, upgrade and apply add-ons to the main Home Assistant application.
+The proposed project is an open-source software called Home-Assistant which is a home automation software used to control connected smart devices like lights, locks, security cameras, fire alarms, sprinklers, and other types of machinery. It includes an application called Supervisor which is used to install, upgrade and apply add-ons to the main Home Assistant application.
 
 ### [Home-Assistant Core](https://github.com/home-assistant/core.git)
 ### [Home-Assistant Supervisor](https://github.com/home-assistant/supervisor.git)
