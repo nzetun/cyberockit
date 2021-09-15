@@ -19,10 +19,13 @@ We anticipate that the user of this product is a small business, locally owned a
 As social media is frequently used as an advertising tool, customers and vendors are not the only parties aware of the value of items held by the business. Adversaries and attackers may consist of those who will try to exploit any lower and medium level openings to gain access to the main system. It is highly unlikely for the supervisor system to face high-level threats.
 
 ## Systems Engineering View Diagram
-### DIAGRAM 1
-### DIAGRAM 2
-### DIAGRAM 3
-***see diagrams in image folder.
+
+*A view of Home Assistant and its Architecture*
+
+![Home Assistant](https://github.com/megharris/cyberockit/blob/main/images/Home%20Assistant.png) ![HA Architecture](https://github.com/megharris/cyberockit/blob/main/images/HA%20Architecture.png)
+
+**Systems Engineering View**
+![Systems Engineering View](https://github.com/megharris/cyberockit/blob/main/images/SEview.png)
 
 ### Security Needs
 * Supervisor needs to block up small attack scopes found within the system by using a superior hashing algorithm like sha256 instead of sha1 or md5. It will be more secure and harder to penetrate for low and medium level attackers.
