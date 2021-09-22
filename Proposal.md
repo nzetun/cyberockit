@@ -108,3 +108,5 @@ Going forward, we plan to identify the project needs, evaluate the code (technic
 * *The Home Assistant security website.* : https://www.home-assistant.io/security/
 
 * *The Team Cyberockit repository.* : https://github.com/megharris/cyberockit.git
+
+This project was worked on by the whole group.
